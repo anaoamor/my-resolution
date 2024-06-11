@@ -5,6 +5,7 @@ JAVASCRIPT
 -ES6
 -Framework JavaScript
  ^Vue
+ ^React
 PHP Framework
  ^Laravel
 VLOG
